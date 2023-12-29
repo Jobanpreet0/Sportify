@@ -5,7 +5,7 @@
 This project involved the development of an Android application within Android Studio, aiming to deliver tailored sports recommendations to users by analysing their preferences alongside local weather conditions. The app integrates seamlessly with an external weather API to provide real-time weather information, enabling the generation of a curated list of sports suitable for the current conditions. Leveraging the Google Maps API, the app also identifies and presents the nearest locations where users can actively participate in their chosen sports. This comprehensive approach aims to enhance the user experience by combining personalized sports recommendations with localized and weather-appropriate options.
 
 ## **Demo**
-![Sportify](https://github.com/Jobanpreet0/Sportify/assets/66274737/7b6a508f-cab5-4c94-94cc-41d2f7ac45d2)
+![Sportify](https://github.com/Jobanpreet0/Sportify/assets/66274737/54b2b42d-3867-46a5-8480-b17e055b691c)
 
 ## **Pages**
 1. Profile Page: Users have the capability to personalize their experience by adding their name and selecting their favorite sports from an extensive list provided.

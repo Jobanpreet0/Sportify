@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Profile"
+        android:icon="@drawable/baseline_person_24"
+        android:id="@+id/person"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="My Recommendations"
+        android:icon="@drawable/baseline_menu_book_24"
+        android:id="@+id/home"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Map"
+        android:icon="@drawable/baseline_map_24"
+        android:id="@+id/map"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Weather"
+        android:icon="@drawable/baseline_wb_sunny_24"
+        android:id="@+id/weather"/>
+</menu>

@@ -20,7 +20,7 @@ To address any issues encountered with the application, please adhere to the fol
 3. If challenges persist, consider resetting the cache of the application.
 4. In the event that the issue persists despite the previous steps, attempt to resolve it by re-installing the application.
 
-## **Imporatant**
+## **Important**
 For security reasons, the API key has been excluded from the code. To test the project, please put your personal Google Maps API key in the 'AndroidManifest.xml' file (line 26) and the 'NearBySearch.java' file (line 21).
 
 ## **Contact Information**
